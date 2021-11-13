@@ -1,4 +1,4 @@
-# Data-Science-
+# Random project
 Showcasing simple data science portfolio
 
 
